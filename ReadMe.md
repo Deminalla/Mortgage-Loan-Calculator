@@ -31,4 +31,4 @@ C:\Program Files\Java\openjfx-17.0.2_windows-x64_bin-sdk\javafx-sdk-17.0.2\lib -
 
 
 ### Example
-<img src="https://user-images.githubusercontent.com/65849358/163430423-c775a7a1-8f0e-4111-82bd-ffd37431b93f.png" width="950" height="534" />
+<img src="https://user-images.githubusercontent.com/65849358/163430423-c775a7a1-8f0e-4111-82bd-ffd37431b93f.png" width="1000" height="563" />
