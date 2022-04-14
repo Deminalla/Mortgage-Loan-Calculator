@@ -10,9 +10,9 @@ Create a mortgage loan calculator
 
 ## Use:
 * this
-* extends
+* *extends*
+* *super*
 * encapsulation
-* super
 * at least 2 packages to contain project classes
 * .jar file to compile
 
