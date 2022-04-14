@@ -1,7 +1,7 @@
 # Task
 Create a mortgage loan calculator
 
-#Inputs:
+# Inputs:
 * the required loan amount
 * term of loan (time needed for returning the money) (year and month)
 * yearly percentage
