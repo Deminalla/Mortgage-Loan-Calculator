@@ -29,5 +29,5 @@ java --module-path "C:\Program Files\Java\openjfx-17.0.2_windows-x64_bin-sdk\jav
 ```
 C:\Program Files\Java\openjfx-17.0.2_windows-x64_bin-sdk\javafx-sdk-17.0.2\lib - my path for javafx lib
 <br /><br />
-## Example
+## Result
 <img src=https://user-images.githubusercontent.com/65849358/163431397-bab36cc5-8779-4e47-84b9-4b237cf3105f.png width="1000" height="506" />
