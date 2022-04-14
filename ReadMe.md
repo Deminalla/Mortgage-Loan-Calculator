@@ -10,7 +10,7 @@ Create a mortgage loan calculator
 
 ## Use:
 * this
-* *extends*
+* *(extends)*
 * *super*
 * encapsulation
 * at least 2 packages to contain project classes
