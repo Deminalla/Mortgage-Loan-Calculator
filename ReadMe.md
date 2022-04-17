@@ -22,6 +22,7 @@ Create a mortgage loan calculator
 * the choice to see a line chart which compared linear and annuity payment types for each month
 
 <br />
+
 To compile with .jar, open Loan.jar in terminal and the write:
 ```
 java --module-path "C:\Program Files\Java\openjfx-17.0.2_windows-x64_bin-sdk\javafx-sdk-17.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar Loan.jar
