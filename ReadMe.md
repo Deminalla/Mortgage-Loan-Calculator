@@ -31,9 +31,5 @@ C:\Program Files\Java\openjfx-17.0.2_windows-x64_bin-sdk\javafx-sdk-17.0.2\lib -
 
 <br />
 
-[comment]: <> ()
-
-[//]: <> (<img src="https://user-images.githubusercontent.com/65849358/163707753-49c5e351-b37b-417a-bab8-987e448f996a.png"/>)
-
-[comment]: <> (a reference style link.)
+[comment]: <> (<img src="https://user-images.githubusercontent.com/65849358/163707753-49c5e351-b37b-417a-bab8-987e448f996a.png"/>)
 
