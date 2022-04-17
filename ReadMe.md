@@ -27,6 +27,7 @@ To compile with .jar, open Loan.jar in terminal and the write:
 ```
 java --module-path "<javafx-root>\lib" --add-modules=javafx.controls,javafx.fxml -jar Loan.jar
 ```
+OR press on run.bat
 [comment]: <> (C:\Program Files\Java\openjfx-17.0.2_windows-x64_bin-sdk\javafx-sdk-17.0.2\lib - my path to javafx lib)
 
 <br />
