@@ -13,9 +13,9 @@ public class FillTable extends FillTotal {
     public void setMonth(int monthNR) {
         this.monthNR = monthNR;
     }
-
+    
+    @Override //overrides toString in FillTotal
     public String toString(){
         return getMonthNR() + "  |  " + getLoan() + "  |   " + getInterest() + "   |  " + getMonthly() + "    | " + getLeft_to_pay();
     }
 }
-
