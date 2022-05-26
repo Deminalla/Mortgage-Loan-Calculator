@@ -23,7 +23,7 @@ Create a mortgage loan calculator
 
 <br />
 
-To compile with .jar, open Loan.jar in terminal and the write:
+To compile with .jar, open Loan.jar in terminal and then write:
 ```
 java --module-path "<javafx-root>\lib" --add-modules=javafx.controls,javafx.fxml -jar Loan.jar
 ```
